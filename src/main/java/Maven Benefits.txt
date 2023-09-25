@@ -1,0 +1,4 @@
+
+Benefits of Maven
+1) Build our Project.It packages all the files of our java Projects in one file.
+2) Manages third party libraries (dependencies)required by our Project.
